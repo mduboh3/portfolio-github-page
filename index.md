@@ -9,7 +9,7 @@
 </header>
 
 <main>
-    <p>On this website, you can learn more about my <a href="#coursework">relevant coursework</a> and explore in-depth details about my <a href="#experience">work experience</a>.</p>
+    <p>On this website, you can learn more about my <a href="#coursework.html">relevant coursework</a> and explore in-depth details about my <a href="#experience.html">work experience</a>.</p>
 
 </main>
 
