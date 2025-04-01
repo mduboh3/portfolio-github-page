@@ -15,7 +15,7 @@
     <p> I currently live in Charlottesville, VA while I finish up my degree at Iowa State University. I am open to in person work anywhere in the US, and can provide assistance in relocating myself to the proper location.
     </p>
 </div>
-    <p>On this website, you can learn more about my <a href="coursework.html">Coursework</a>  and explore in-depth details about my <a href="experience.html">Work Experience</a>.</p>
+    <p>On this website, you can learn more about my <a href="coursework.md">Coursework</a>  and explore in-depth details about my <a href="experience.md">Work Experience</a>.</p>
     
 
 </main>
