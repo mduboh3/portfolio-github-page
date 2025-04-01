@@ -5,7 +5,7 @@
     <h1>Work Experience</h1>
 </header>
 <body>
-    <p><strong>Relevant Work</strong></p>
+    <h2><strong>Relevant Work</strong></h2>
     <pre>    <p><strong>Jemstone Technologies - Information Analyst Intern</strong> - <em>May 2024 - August 2024, December 2024 - January 2025</em></p></pre>
             <p>As an Information Analyst Intern, I played a key role in configuring and maintaining IT infrastructure for businesses. I worked on various hardware, including PCs, servers, laptops, and workstations, both on-site and remotely using Remote Desktop services. I contributed to setting up and managing an SQL-based inventory database, assisting with IT support, and deploying new workstations and server systems. My responsibilities also included troubleshooting system issues, ensuring seamless operations for clients.</p>
 
