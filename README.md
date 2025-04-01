@@ -4,7 +4,7 @@
     
 
 <header>
-    <h1>Welcome to my github page!</h1>
+    <h1>Welcome to my Online Portfolio!</h1>
     <p>Hello! My name is Paul Weiss.</p>
 </header>
 
