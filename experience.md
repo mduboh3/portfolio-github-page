@@ -1,28 +1,26 @@
 <!DOCTYPE html>
 <html lang="en">
 
+<header>
+    <h1>Work Experience</h1>
+</header>
 <body>
-    <h1>Paul Weiss - Work Experience</h1>
-
     <p><strong>Relevant Work Experience</strong></p>
     <p><strong>Jemstone Technologies - Information Analyst Intern</strong></p>
     <p>Operated on PCs, servers, laptops, and workstations, both on-site and remotely.</p>
     <p>Installed and configured Remote Desktop for client equipment.</p>
     <p>Assisted in installation and construction of workstations, an SQL inventory database, new servers, and PCs.</p>
-    
-    <h2>General Work Experience</h2>
+
+<h2>General Work Experience</h2>
     <p><strong>Edge Pursuit LLC - Accounting Intern</strong></p>
     <p>Managed financial records for multiple small companies.</p>
     <p>Organized and delivered Statement of Cash Flows, Balance Sheets, and Income Statements accurately and on time.</p>
-    
     <p><strong>Quinn's Auction House - Inventory Manager</strong></p>
     <p>Logged customer purchases and managed inventory to ensure efficient retrieval.</p>
     <p>Located, acquired, and safely loaded purchased items into customers' vehicles.</p>
-    
     <p><strong>United States Soccer Federation (USSF) Referee</strong></p>
     <p>Officiated U12-U18 boys' and girls' matches with professionalism and accuracy.</p>
     <p>Recognized for officiating abilities by a top Serbian official while refereeing a U18 match at age 16.</p>
-    
     <p><strong>Trash Butler - Doorstep Trash Removal Butler</strong></p>
     <p>Managed nightly trash collection for approximately 750 doors from Sunday to Thursday.</p>
     <p>Walked door-to-door, checked for trash, collected it, loaded it onto the truck, and disposed of it in the compactor.</p>
