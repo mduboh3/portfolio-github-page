@@ -20,6 +20,6 @@
             <p>At Quinn's Auction House, I managed inventory and tracked customer purchases efficiently. I was responsible for logging purchases into the system and organizing inventory to facilitate easy retrieval. When customers arrived to collect their items, I located, acquired, and loaded them into their vehicles safely, ensuring excellent customer service and operational efficiency.</p>
     <pre><p><strong>United States Soccer Federation (USSF) Referee</strong> - <em>Febuary 2017 - December 2019</em></p></pre>
             <p>As a USSF-certified referee, I officiated competitive soccer matches for U12-U18 boys’ and girls’ teams. My role required enforcing game rules, making real-time decisions under pressure, and maintaining control over the match. My officiating skills were recognized by a top Serbian official, who commended my abilities while observing one of my U18 matches at age 16. This experience strengthened my leadership, communication, and decision-making skills.</p>
-<p>Return <a href="home.md">Home</a> or visit <a href="coursework.md">Coursework</a></p>
+<p>Return <a href="README.md">Home</a> or visit <a href="coursework.md">Coursework</a></p>
 </body>
 </html>
