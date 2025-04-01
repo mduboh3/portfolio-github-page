@@ -3,8 +3,8 @@
 
 <body>
     <h1>Paul Weiss - Work Experience</h1>
-    
-    <h2>Relevant Work Experience</h2>
+
+    <p><strong>Relevant Work Experience</strong></p>
     <p><strong>Jemstone Technologies - Information Analyst Intern</strong></p>
     <p>Operated on PCs, servers, laptops, and workstations, both on-site and remotely.</p>
     <p>Installed and configured Remote Desktop for client equipment.</p>
