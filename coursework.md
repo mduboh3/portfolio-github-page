@@ -37,6 +37,7 @@
     <p>Competed in a hackathon, where I collaborated with peers to develop a software project under time constraints. This experience enhanced my problem-solving skills, teamwork, and ability to write efficient code under pressure.</p>
        <pre><h2>Middle School: Robert Frost - Fairfax, VA</h2></pre>
     <p><strong>George Mason University Python Summer Boot Camp</strong></p>
-    <p>Attended summer boot camps in 7th and 8th grade, gaining foundational programming experience in Python. These early courses introduced me to key programming concepts, problem-solving, and logic-building techniques.</p>    
+    <p>Attended summer boot camps in 7th and 8th grade, gaining foundational programming experience in Python. These early courses introduced me to key programming concepts, problem-solving, and logic-building techniques.</p>  
+    <p>Return <a href="home.md">Home</a> or visit <a href="experience.md">Work Experience</a></p>
 </body>
 </html>
