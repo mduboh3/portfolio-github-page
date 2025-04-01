@@ -3,7 +3,7 @@
 <html lang="en">
 <body>
     <h1>Relevant Coursework</h1>
-    <pre><h2>Iowa State University</h2></pre>
+    <pre><h2>University: Iowa State - Ames, IA</h2></pre>
     <p><strong>Management Information Systems (MIS) and Business Analytics (BA) Courses</strong></p>
     <ul>
         <li><strong>MIS 301:</strong> <em>Management Information Systems</em>: Overview of information systems and development of systems including decision support systems, expert systems, databases, and end-user computing. Learned and received certificate of completion on Tableau.</li>
@@ -30,12 +30,12 @@
         <li><strong>ACCT 384:</strong> <em>Accounting Information Systems and Analytics</em>: Concepts and procedures underlying creating, sharing, reporting, storing, and analyzing accounting data. Information technology internal controls and auditing techniques. Trends in accounting information systems. Course strongly implementedd SQL knowledge daily. </li>
         <li><strong>ACCT 484:</strong> <em>Advanced Acconting Information Systems</em>: Advanced accounting information systems concepts; database design and information retreival, internal controls within computerized accounting information systems, financial reporting in an electronic environment.</li>
     </ul>
-    <h2>High School</h2>
+    <pre><h2>High School: W.T. Woodson - Fairfax, VA</h2></pre>
     <p><strong>W.T. Woodson High School - Computer Science</strong></p>
     <p>Studied Java programming in 11th and 12th grade, learning object-oriented programming, data structures, and algorithms. Participated in the school's AP Computer Science course, which provided a deeper understanding of software development and application design.</p>
     <p><strong>W.T. Woodson High School Hackathon</strong></p>
     <p>Competed in a hackathon, where I collaborated with peers to develop a software project under time constraints. This experience enhanced my problem-solving skills, teamwork, and ability to write efficient code under pressure.</p>
-       <h2>Middle School</h2>
+       <pre><h2>Middle School: Robert Frost - Fairfax, VA</h2></pre>
     <p><strong>George Mason University Python Summer Boot Camp</strong></p>
     <p>Attended summer boot camps in 7th and 8th grade, gaining foundational programming experience in Python. These early courses introduced me to key programming concepts, problem-solving, and logic-building techniques.</p>    
 </body>
